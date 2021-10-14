@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Configurações para rodar o projeto
 
-Things you may want to cover:
+#clonar o projeto e rodar git lone
 
-* Ruby version
+* Ruby version 5.2.0
 
 * System dependencies
 
