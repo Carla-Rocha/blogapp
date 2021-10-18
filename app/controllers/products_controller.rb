@@ -16,6 +16,7 @@ class ProductsController < ApplicationController
   end
 
   # GET /products/1/edit
+  # adicionando um comentario no codigo
   def edit
   end
 
