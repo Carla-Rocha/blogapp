@@ -7,6 +7,7 @@ class ProductsController < ApplicationController
   end
 
   # GET /products/1 or /products/1.json
+  # isso aqui é comentario
   def show
   end
 
